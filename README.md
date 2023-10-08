@@ -72,7 +72,7 @@ The tech stack includes
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--  [Live Demo Link](https://comments-app-three.vercel.app/)
+-  [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
